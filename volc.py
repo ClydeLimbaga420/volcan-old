@@ -43,6 +43,7 @@ volcanoes = [
     {"name": "Ragang", "lat": 7.700, "lng": 124.500, "status": "Active"},
     {"name": "Smith Volcano", "lat": 19.525, "lng": 121.913, "status": "Active"},
     {"name": "Camiguin de Babuyanes", "lat": 19.300, "lng": 121.900, "status": "Active"},
+    {"name": "Mount Fuji", "lat": 35.3606, "lng": 138.7274, "status": "Active"},
 ]
 
 # ----------------------- Sidebar Controls -----------------------
